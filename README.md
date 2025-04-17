@@ -1,1 +1,1 @@
-# FLIQ-Virtual-Hackathon
+# FLIQ-Virtual-Hackathon - https://www.quantumcoalition.io
