@@ -1,8 +1,8 @@
-# FLIQ-Virtual-Hackathon
+# Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon
 
 https://www.quantumcoalition.io/
 
-For any questions, please reach out to Anusha Dandapani (dandapani@unicc.org) or Luke Sebold (lts45@case.edu)
+For any questions, please reach out to Anusha Dandapani (dandapani@unicc.org), Gillian Makamara (gillian.makamara@itu.int), Devyani Rastogi (rastogi@unicc.org), Luke Sebold (lts45@case.edu)
 
 ---
 
@@ -74,7 +74,6 @@ Feel free to propose additional datasets and justification if so.
 |:---------|:------------|
 | **Performance Evaluation** | Measure Precision, Recall, F1-score, Accuracy; balance false positives and negatives. |
 | **Fairness & Bias Detection** | Evaluate demographic fairness using metrics like Disparate Impact Ratio. |
-| **Data Drift & Concept Drift Monitoring** | Detect performance degradation over time (e.g., KL Divergence, PSI). |
 | **Adversarial Robustness Testing** | Test resilience against manipulated/adversarial inputs. |
 | **Explainability & Interpretability Testing** | Provide understandable model decisions (e.g., SHAP, LIME, Counterfactuals). |
 | **Privacy & Security Compliance** | Ensure data encryption, anonymization, GDPR/ISO compliance. |
@@ -83,7 +82,6 @@ Feel free to propose additional datasets and justification if so.
 | **Innovation & Uniqueness** | Creativity and originality of your quantum-classical hybrid model. |
 | **Implementation Quality** | Code quality, structure, and efficiency. |
 | **Presentation & Understanding** | Clear explanation of approach, trade-offs, and insights. |
-| **Application & Viability** | Practicality and real-world relevance of your solution. | 
 
 ---
 
@@ -99,6 +97,6 @@ Feel free to propose additional datasets and justification if so.
 
 - Try to push yourself, demonstrate your understanding, and write clean efficient code. 
 - The UN-ICC and Quantum Coalition value safe, responsible, and humanitarian use of AI/ML, and heavily suggest you keep these values in mind as you develop and test your submission. 
-- This challenge and all related submissions are intended for the benefit of **all** and must be submitted under the MIT License, or a similar open source license. 
+- This challenge and all related submissions are intended for the benefit of **all** and must be submitted under the CC0 License or CC BY License. 
 
 ---
